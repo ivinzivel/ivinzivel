@@ -1,4 +1,8 @@
-### Hi there 👋
+### Oh hello, welcome to my GitHub 🤠
+
+I am a Brazilian front-end developer, I like to clone some interfaces and create different things within the front-end universe. I have some peculiar projects here, feel free to view, paste or contribute :)
+
+[My portfolio](https://ivinrodrigues.com)
 
 <!--
 **IvinRodrigues/IvinRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
