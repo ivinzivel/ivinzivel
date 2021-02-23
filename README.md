@@ -2,8 +2,8 @@
 
 I am a Brazilian front-end developer, I like to clone some interfaces and create different things within the front-end universe. I have some peculiar projects here, feel free to view, paste or contribute :)
 
-[My portfolio](https://ivinrodrigues.com)
-[My linkedin](https://www.linkedin.com/in/ivin-rodrigues-a49113187/)
+☄️ [My portfolio](https://ivinrodrigues.com) <br>
+🚀[My linkedin](https://www.linkedin.com/in/ivin-rodrigues-a49113187/)
 
 <!--
 **IvinRodrigues/IvinRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
