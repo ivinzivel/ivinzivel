@@ -1,9 +1,10 @@
 # **Welcome, Unkindled One**
 
-Im a Senior Brazilian **pixel perfect** front-end developer and tech leader with experience in different projects and frameworks.<br>
-I like to clone some interfaces and create different things within the front-end universe. Feel free to check out or contribute to my quirky projects :)
+Im a Senior Brazilian **pixel perfect** front-end developer and tech leader with experience in different projects and frameworks.
+I like to clone some interfaces and create different things within the front-end universe.<br>
+Feel free to check out or contribute to my quirky projects :)
 
-<img src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif" width="100%" height="400" style="object-fit: cover" />
+<img src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif" width="100%" height="400" />
 
 <!--
 **IvinRodrigues/IvinRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
