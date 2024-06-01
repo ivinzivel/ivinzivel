@@ -1,6 +1,9 @@
-### Oh hello, welcome to my GitHub 🤠
+# **Welcome, Unkindled One**
 
-I am a Brazilian front-end developer, I like to clone some interfaces and create different things within the front-end universe. I have some peculiar projects here, feel free to view, paste or contribute :)
+Im a Senior Brazilian **pixel perfect** front-end developer and tech leader with experience in different projects and frameworks.
+I like to clone some interfaces and create different things within the front-end universe. Feel free to check out or contribute to my quirky projects :)
+
+<img src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif" width="100%" height="400" style="object-fit: cover" />
 
 <!--
 **IvinRodrigues/IvinRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
