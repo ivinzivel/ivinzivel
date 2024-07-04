@@ -1,6 +1,6 @@
 # **Welcome, Unkindled One**
 
-Im a Senior Brazilian **pixel perfect** front-end developer and tech leader with experience in different projects and frameworks.
+Im a Senior **pixel perfect** front-end developer and tech leader with experience in different projects and frameworks.
 I like to clone some interfaces and create different things within the front-end universe.<br><br>
 Feel free to check out or contribute to my quirky projects :)
 
